@@ -1,4 +1,4 @@
-package Controller;
+package Clases;
 
 import javax.swing.JLabel;
 

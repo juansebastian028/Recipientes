@@ -1,6 +1,6 @@
-package View;
+package JFrames;
 
-import Controller.Botella;
+import Clases.Botella;
 import javax.swing.JOptionPane;
 
 public class VentanaPrincipal extends javax.swing.JFrame {

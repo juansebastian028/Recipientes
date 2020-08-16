@@ -1,5 +1,5 @@
-package View;
-import Controller.Olla;
+package JFrames;
+import Clases.Olla;
 import javax.swing.JOptionPane;
 
 public class VentanaOlla extends javax.swing.JFrame {

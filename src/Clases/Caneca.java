@@ -1,4 +1,4 @@
-package Controller;
+package Clases;
 
 import javax.swing.ImageIcon;
 import javax.swing.JLabel;

@@ -1,6 +1,6 @@
-package View;
+package JFrames;
 
-import Controller.Caneca;
+import Clases.Caneca;
 import javax.swing.JOptionPane;
 
 public class VentanaCaneca extends javax.swing.JFrame {
